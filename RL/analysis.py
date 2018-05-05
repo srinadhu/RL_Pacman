@@ -31,7 +31,7 @@ def question3a():
     return answerDiscount, answerNoise, answerLivingReward
 
 def question3b():
-    answerDiscount = 0.25
+    answerDiscount = 0.20
     answerNoise = 0.2
     answerLivingReward = 0.0
     return answerDiscount, answerNoise, answerLivingReward
@@ -53,7 +53,6 @@ def question3e():
     answerNoise = 0.2
     answerLivingReward = 1.0
     return answerDiscount, answerNoise, answerLivingReward
-    # If not possible, return 'NOT POSSIBLE'
 
 def question6():
     answerEpsilon = 0.0
